@@ -1,0 +1,9 @@
+5月3号
+创建BlockChain类
+“块”由一下几个部分组成：
+1.index
+2.Unix
+3.transaction
+4.proof
+5.hash
+技术的核心理念是每一个块都包含上一个块的hash。
