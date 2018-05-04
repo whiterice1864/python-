@@ -11,4 +11,6 @@
 5月4号
 添加交易到区块
 创建新的区块
-工作量证明算法：hashcash
+工作量证明算法：hashcash 需要用到hashlib https://blog.csdn.net/secret5/article/details/70150486
+hashlib 是一个提供了一些流行的hash算法的 Python 标准库．其中所包括的算法有 md5, sha1, sha224, sha256, sha384, sha512. 
+另外，模块中所定义的 new(name, string=”) 方法可通过指定系统所支持的hash算法来构造相应的hash对象．
